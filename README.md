@@ -1,3 +1,3 @@
 # AulaGIT
-Eu amo GIT
+Socuerro
 Marcos Freitas
